@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Start nav Css */
+
+nav {
+  background-color: #0a490a;
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+}
